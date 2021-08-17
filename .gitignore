@@ -15,3 +15,4 @@ c# Binaries for programs and plugins
 # vendor/
 /vendor
 /.idea
+/bin/*
