@@ -12,7 +12,6 @@ c# Binaries for programs and plugins
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
 /vendor
 /.idea
 /bin/*
